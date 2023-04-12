@@ -1,0 +1,286 @@
+{
+  "project_info": {
+    "project_number": "73419430297",
+    "project_id": "remote-notification-c188a",
+    "storage_bucket": "remote-notification-c188a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73419430297:android:fd69b03487a1fc8d935b08",
+        "android_client_info": {
+          "package_name": "com.example.firebase_messaging_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_p9H6lUI1CN5_RMj7Js7D40IyuT3N_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73419430297-1ietfpuv3ga14ack528arusrpdq8nuq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.remoteNotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73419430297:android:550e84f0c87225a3935b08",
+        "android_client_info": {
+          "package_name": "com.example.noitification_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_p9H6lUI1CN5_RMj7Js7D40IyuT3N_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73419430297-1ietfpuv3ga14ack528arusrpdq8nuq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.remoteNotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73419430297:android:ee2b8ce132cb46dd935b08",
+        "android_client_info": {
+          "package_name": "com.example.notification_course_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_p9H6lUI1CN5_RMj7Js7D40IyuT3N_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73419430297-1ietfpuv3ga14ack528arusrpdq8nuq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.remoteNotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73419430297:android:3526dabd0062b6b8935b08",
+        "android_client_info": {
+          "package_name": "com.example.notification_crouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_p9H6lUI1CN5_RMj7Js7D40IyuT3N_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73419430297-1ietfpuv3ga14ack528arusrpdq8nuq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.remoteNotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73419430297:android:4ef798c437f9f532935b08",
+        "android_client_info": {
+          "package_name": "com.example.remote_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73419430297-siv33opjvdc5bjccmt9lpki5ds8fdoc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remote_notification",
+            "certificate_hash": "5954c48d8a000b12de7a31bfec4c36a613c8f5ad"
+          }
+        },
+        {
+          "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_p9H6lUI1CN5_RMj7Js7D40IyuT3N_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73419430297-1ietfpuv3ga14ack528arusrpdq8nuq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.remoteNotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73419430297:android:38f623ca001c2cf4935b08",
+        "android_client_info": {
+          "package_name": "com.example.rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73419430297-39lo4bk8uftr9vgmebrl4vfarsa8me4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rn",
+            "certificate_hash": "5954c48d8a000b12de7a31bfec4c36a613c8f5ad"
+          }
+        },
+        {
+          "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_p9H6lUI1CN5_RMj7Js7D40IyuT3N_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73419430297-1ietfpuv3ga14ack528arusrpdq8nuq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.remoteNotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73419430297:android:ae4ddc46d9c8b6cc935b08",
+        "android_client_info": {
+          "package_name": "me.carda.awesome_notifications_fcm_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73419430297-6q7tic19cigk7m2s65hp65nqta6oa3ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.carda.awesome_notifications_fcm_example",
+            "certificate_hash": "5954c48d8a000b12de7a31bfec4c36a613c8f5ad"
+          }
+        },
+        {
+          "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_p9H6lUI1CN5_RMj7Js7D40IyuT3N_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73419430297-cc8rm0gdbgtjqvu7sq3tl005hn836ccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73419430297-1ietfpuv3ga14ack528arusrpdq8nuq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.remoteNotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
